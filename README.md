@@ -1,4 +1,3 @@
-#Gestion de stock
 Application de gestion de stock développée en Python avec la bibliothèque de GUI Tkinter pour créer les interfaces utilisateur, et une base de données relationnelle MySQL avec PHPMyAdmin pour stocker les informations sur les produits et les utilisateurs.
 
 L'application permet aux utilisateurs de créer un compte avec un nom d'utilisateur et un mot de passe en utilisant le bouton "signup".
